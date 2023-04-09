@@ -1,3 +1,7 @@
+/**
+ * Representação de um resumo, armazenando seu tema e conteúdo,
+ * fornecendo um modelo de visualização padrão com toString
+ */
 public class Resumo {
     String tema;
     String conteudo;
